@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #343a40 !important;
+}
+
+.title {
+  color: #fff;
+  margin: 1.5rem 0;
+}
+
+#volumeText {
+  color: rgb(255, 255, 255);
+  min-width: 110px;
+  font-size: 1.5rem;
+}
